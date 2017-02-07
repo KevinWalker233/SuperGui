@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SuperGui",
+  "name": "SuperGui",
+  "description": "SuperGui.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "null",
+  "updateUrl": "",
+  "authorList": ["KevinWalker"],
+  "credits": "SuperGui",
+  "logoFile": "assets/supergui/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
